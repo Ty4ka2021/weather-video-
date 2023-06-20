@@ -39,6 +39,7 @@ const CurrentWeather = ({ data }) => {
 						<span className={s.parameterLabel}>Pressure</span>
 						<span className={s.parameterValue}>{data.main.pressure} hPa</span>
 					</li>
+					{/*  */}
 
 
 				</ul>
